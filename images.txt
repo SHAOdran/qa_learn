@@ -1,5 +1,7 @@
 1) pmg_1
-) img_2
-rrro:
-5) image new[D[D[D[D[D[C[C[C[C[C[g_4
-6) img_5
+2) img_2
+3)rrro:
+4) image new
+5) img_53) img_24
+6) img_2
+
